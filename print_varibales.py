@@ -19,6 +19,7 @@ a=input("enter a number")
 
 print("%f is the entered number" %float(a))
 """
+
 # this is first line
 print("*"*4)
 # 2nd line
